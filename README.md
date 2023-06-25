@@ -17,3 +17,5 @@ The system enables authorized users to verify the authenticity of Aadhaar cards.
 5. Data Backup and Recovery:
 To ensure data integrity, the system can implement regular data backup mechanisms. This helps in recovering the data in case of system failures or data corruption.
 
+6. Print:
+The aadhar details that have been displayed can also be taken a print out. This enables the user to have have a hard copy that is acquired from the application.
